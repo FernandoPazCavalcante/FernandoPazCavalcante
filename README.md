@@ -12,18 +12,18 @@
 
 I started working with software development in 2015 and I've been improving my skills ever since.
 
-I've already worked with ASP.NET MVC, Angular, Node.js and Solidity.
+I've already worked with ASP.NET MVC, Angular, Node.js, Solidity, and many other technologies.
 
-Currently, I'm working with .NET and Vue.js and I'm deepening my knowledge of design patterns and smart contracts.
+I'm working with Nest.js and deepening my knowledge of design patterns, smart contracts, and containerization.
 
 ---
-- 🎯 **I’m currently working on**: Create systems and automations to improve the workflow of Shopify sellers in Brazil. 🇧🇷
+- 🎯 **I’m currently working on**: Develop a crypto platform focused on token staking, liquidity pools, and token mint. 🇧🇷
 
-- ⚙️ **I use daily**: `c#`, `vue.js`, `mongodb`, `sql server`, `azure`
+- ⚙️ **I use daily**: `typescript`, `nest.js`, `mysql`, `docker`, `kubernetes`, `aws`
 
-- 🌱 **I’m currently learning**: `docker`, `kubernetes`, `blockchain`
+- 🌱 **I’m deepening my knowledge on**: `docker`, `kubernetes`, `blockchain`, `software architecture`
 
-- 💬 **Ask me about**: `.NET`, `Node.js`, `SOLID`, `MongoDB`, `Azure`, `Vue.js`
+- 💬 **Ask me about**: `.NET`, `Node.js`, `SOLID`, `MongoDB`, `Azure`, `AWS`, `Vue.js`
 ---
 <div align="center" style="display=flex">
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -33,6 +33,9 @@ Currently, I'm working with .NET and Vue.js and I'm deepening my knowledge of de
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img width="4%" style="border-radius=5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
