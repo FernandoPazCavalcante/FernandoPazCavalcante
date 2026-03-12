@@ -10,6 +10,8 @@
 
 ### Just a software developer and avid Crypto enthusiast. 
 
+Building [LazySwap](https://www.lazyswap.app) and other stuffs.
+
 ---
 - 🎯 **I’m currently working on**: Building amazing DeFi solutions!
 
